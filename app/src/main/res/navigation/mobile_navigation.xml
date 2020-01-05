@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/navigation_users">
+    <fragment
+        android:id="@+id/navigation_users"
+        android:name="com.costular.projectpartyqr.presentation.users.UsersFragment"
+        android:label="@string/title_users" />
+    <fragment
+        android:id="@+id/navigation_validate"
+        android:name="com.costular.projectpartyqr.presentation.validate.ValidateFragment"
+        android:label="@string/title_validate" />
+
+    <fragment
+        android:id="@+id/navigation_info"
+        android:name="com.costular.projectpartyqr.presentation.stats.StatsFragment"
+        android:label="Estadísticas" />
+
+
+</navigation>

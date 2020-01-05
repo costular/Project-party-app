@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "109196830704",
+    "firebase_url": "https://project-party-qr-8696d.firebaseio.com",
+    "project_id": "project-party-qr-8696d",
+    "storage_bucket": "project-party-qr-8696d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109196830704:android:8395e6558146d3e46cdf35",
+        "android_client_info": {
+          "package_name": "com.costular.projectpartyqr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109196830704-f88vaa67t7dlhf4i987p6ba2bkv59em0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4zyx1lt2v6JEpLOW_B4PukZbt_HNY_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109196830704-f88vaa67t7dlhf4i987p6ba2bkv59em0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

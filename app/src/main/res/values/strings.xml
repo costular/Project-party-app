@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Project Party QR</string>
+    <string name="title_activity_main">Project Party QR</string>
+
+    <!-- Users -->
+    <string name="title_users">Invitados</string>
+
+    <!-- Validate -->
+    <string name="title_validate">Validar</string>
+
+</resources>
